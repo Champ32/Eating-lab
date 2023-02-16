@@ -1,0 +1,17 @@
+C:\Users\rober\source\repos\Eating\bin\Debug\net6.0-windows\Eating.exe
+C:\Users\rober\source\repos\Eating\bin\Debug\net6.0-windows\Eating.deps.json
+C:\Users\rober\source\repos\Eating\bin\Debug\net6.0-windows\Eating.runtimeconfig.json
+C:\Users\rober\source\repos\Eating\bin\Debug\net6.0-windows\Eating.dll
+C:\Users\rober\source\repos\Eating\bin\Debug\net6.0-windows\Eating.pdb
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.Form1.resources
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.csproj.GenerateResource.cache
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.AssemblyInfo.cs
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.dll
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\refint\Eating.dll
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.pdb
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\Eating.genruntimeconfig.cache
+C:\Users\rober\source\repos\Eating\obj\Debug\net6.0-windows\ref\Eating.dll
